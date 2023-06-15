@@ -1,0 +1,12 @@
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.dll
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.pdb
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csprojAssemblyReference.cache
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.dll
+C:\Users\vovad\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.pdb
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.dll
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.pdb
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.AssemblyReference.cache
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.dll
+C:\Users\user.KITS\Desktop\Демешкан541РПМ\ПР 4\SF2022User{NN}Lib\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.pdb
